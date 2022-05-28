@@ -1,6 +1,7 @@
 # Cargas-AC-ESP32
 
 Este dispositivo fue diseñado como proyecto final de curso aplicando IOT (Internet de las Cosas)
+
 El dispositivo contiene:
 
 - ESP32
